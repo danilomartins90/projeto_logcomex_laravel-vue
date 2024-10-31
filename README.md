@@ -57,6 +57,6 @@ Antes de começar, verifique se você possui as seguintes ferramentas instaladas
 
 ## Como Usar
 
-1. Acesse o frontend em http://localhost:3000.
+1. Acesse o frontend em http://localhost:3333.
 2. Utilize o filtro para buscar Pokémons pelo nome.
 3. Clique em "Ver detalhes" para visualizar informações adicionais sobre cada Pokémon.
